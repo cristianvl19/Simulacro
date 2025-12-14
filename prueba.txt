@@ -1,2 +1,3 @@
 Manual de usuario de la App. Versión inicial
 Indice
+1. Instalacion en Android10 o superior
